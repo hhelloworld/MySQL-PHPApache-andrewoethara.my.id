@@ -2,10 +2,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
