@@ -1,11 +1,7 @@
 <?php
 session_start();
 
-// Database connection details
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 
 $conn = mysqli_connect($host, $user, $pass, $db);
