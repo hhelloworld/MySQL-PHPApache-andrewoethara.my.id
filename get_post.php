@@ -1,9 +1,6 @@
 <?php
 
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 function slugify($text) {
     $text = preg_replace('~[^\pL\d]+~u', '-', $text);
