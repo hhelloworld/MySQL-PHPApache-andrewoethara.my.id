@@ -1,10 +1,7 @@
 <?php
 header('Content-Type: application/json');
 
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
