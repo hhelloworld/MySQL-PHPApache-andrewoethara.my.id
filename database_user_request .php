@@ -1,9 +1,6 @@
 <?php
 
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
