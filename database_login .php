@@ -1,9 +1,5 @@
 <?php
 
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
 
 $email = $_POST['email'];
 $password = $_POST['password'];
