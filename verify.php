@@ -1,8 +1,5 @@
 <?php
-$host = "localhost";
-$user = "andj7367_userTest";
-$pass = "B=Cp!?}]]qKI";
-$db = "andj7367_andrewORdb";
+
 
 // Get the verification token from the URL
 $verificationToken = $_GET['token'];
